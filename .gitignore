@@ -1,0 +1,10 @@
+.env
+__pycache__/
+.venv/
+.pytest_cache/
+node_modules/
+dist/
+.DS_Store
+
+# Real Linear data from `python linear_client.py`; regenerate locally
+backend/tests/fixtures/issues.json

@@ -1,0 +1,175 @@
+[
+  {
+    "identifier": "KAR-101",
+    "title": "Day 1 · Mon 2 Nov",
+    "url": "https://linear.app/example/issue/KAR-101",
+    "dueDate": "2026-11-02",
+    "description": "**12:30–2:00 · DSA – Arrays & Hashing**\n\n- [x] Contains Duplicate\n- [x] Valid Anagram\n\n**3:00–4:15 · Portfolio Project – Plan the project**\n\n- [x] Pick the project idea\n\n**4:15–5:30 · System Design – Fundamentals**\n\n- [ ] Learn: client-server, DNS, latency vs throughput",
+    "state": {
+      "name": "Done",
+      "type": "completed"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Daily Plan"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 1 · Nov 2–6",
+      "targetDate": "2026-11-06"
+    }
+  },
+  {
+    "identifier": "KAR-102",
+    "title": "Day 2 · Tue 3 Nov",
+    "url": "https://linear.app/example/issue/KAR-102",
+    "dueDate": "2026-11-03",
+    "description": "**12:30–2:00 · DSA – Arrays & Hashing**\n\n- [x] Two Sum\n- [ ] Group Anagrams\n\n**3:00–4:15 · Agentic AI – LLM basics**\n\n- [ ] Learn: tokens, context windows, temperature\n\n**4:15–5:30 · System Design – Fundamentals**\n\n- [ ] Learn: load balancers",
+    "state": {
+      "name": "Backlog",
+      "type": "backlog"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Daily Plan"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 1 · Nov 2–6",
+      "targetDate": "2026-11-06"
+    }
+  },
+  {
+    "identifier": "KAR-103",
+    "title": "Day 3 · Wed 4 Nov",
+    "url": "https://linear.app/example/issue/KAR-103",
+    "dueDate": "2026-11-04",
+    "description": "Free study day, no plan written yet.",
+    "state": {
+      "name": "Backlog",
+      "type": "backlog"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Daily Plan"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 1 · Nov 2–6",
+      "targetDate": "2026-11-06"
+    }
+  },
+  {
+    "identifier": "KAR-104",
+    "title": "Day 5 · Fri 6 Nov",
+    "url": "https://linear.app/example/issue/KAR-104",
+    "dueDate": "2026-11-06",
+    "description": "**12:30–2:00 · DSA – Arrays & Hashing**\n\n- [ ] Longest Consecutive Sequence\n\n**3:00–4:15 · Portfolio Project – Plan the project**\n\n- [ ] Design the sales-pipeline schema (accounts, deals, stages, reps, activities)\n- [ ] Commit + push; update README\n\n**4:15–5:30 · System Design – Fundamentals**\n\n- [ ] Review the week + write a 1-page summary",
+    "state": {
+      "name": "In Progress",
+      "type": "started"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Daily Plan"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 1 · Nov 2–6",
+      "targetDate": "2026-11-06"
+    }
+  },
+  {
+    "identifier": "KAR-105",
+    "title": "Day 61 · Mon 25 Jan",
+    "url": "https://linear.app/example/issue/KAR-105",
+    "dueDate": "2027-01-25",
+    "description": "**12:30–2:00 · DSA – Dynamic Programming**\n\n- [ ] Coin Change\n- [ ] Longest Increasing Subsequence\n- [ ] Word Break\n\n**3:00–4:15 · Agentic AI – Evals**\n\n- [ ] Learn: LangSmith datasets",
+    "state": {
+      "name": "Backlog",
+      "type": "backlog"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Daily Plan"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 13 · Jan 25–29",
+      "targetDate": "2027-01-29"
+    }
+  },
+  {
+    "identifier": "KAR-106",
+    "title": "W1 · DSA: Arrays & Hashing (6 problems)",
+    "url": "https://linear.app/example/issue/KAR-106",
+    "dueDate": "2026-11-06",
+    "description": "**When:** Mon–Fri, 12:30–2:00 PM\n\n**Key problems:** Contains Duplicate, Valid Anagram, Two Sum\n\n- [x] 6 problems done",
+    "state": {
+      "name": "Done",
+      "type": "completed"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "DSA"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 1 · Nov 2–6",
+      "targetDate": "2026-11-06"
+    }
+  },
+  {
+    "identifier": "KAR-107",
+    "title": "W1 · Agentic AI: LLM basics",
+    "url": "https://linear.app/example/issue/KAR-107",
+    "dueDate": "2026-11-06",
+    "description": "**When:** Mon–Fri, 3:00–4:15 PM\n\n- [ ] Read the Anthropic prompt engineering guide",
+    "state": {
+      "name": "Backlog",
+      "type": "backlog"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Agentic AI"
+        }
+      ]
+    },
+    "projectMilestone": {
+      "name": "Week 1 · Nov 2–6",
+      "targetDate": "2026-11-06"
+    }
+  },
+  {
+    "identifier": "KAR-108",
+    "title": "Job search: update resume",
+    "url": "https://linear.app/example/issue/KAR-108",
+    "dueDate": null,
+    "description": "- [ ] Rewrite the summary section",
+    "state": {
+      "name": "Backlog",
+      "type": "backlog"
+    },
+    "labels": {
+      "nodes": [
+        {
+          "name": "Job Search"
+        }
+      ]
+    },
+    "projectMilestone": null
+  }
+]

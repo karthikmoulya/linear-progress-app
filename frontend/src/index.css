@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* Tokens from the "Linear Progress App" design canvas. */
+@theme {
+  --font-sans: "Inter Tight", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --color-ink: #12141a;
+  --color-ink-2: #1c1f27;
+  --color-ink-3: #2c303b;
+  --color-muted: #535968;
+  --color-faint: #8a90a0;
+  --color-ground: #f3f4f6;
+  --color-line: #e2e4e9;
+  --color-line-2: #eceef2;
+  --color-link: #3442c4;
+  --color-accent: #3d4bd1;
+  --color-progress: #ea8a3b;
+  --color-missed: #f4b8b0;
+}
+
+body {
+  margin: 0;
+  background: var(--color-ground);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.45;
+}
